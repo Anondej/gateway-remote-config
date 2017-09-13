@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE76D7D9", 
+		"servers": [ 
+			{ 
+				"server_address": "ttn-router-asia-se", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 13.88532224, 
+		"ref_longitude": 100.57571865, 
+		"ref_altitude": 40, 
+		"contact_email": "anondej@gmail.com", 
+		"description": "Test RAK Wireless 831" 
+	} 
+} 
